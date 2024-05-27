@@ -63,8 +63,13 @@ Next, I watched a video on making a sliding puzzle with the help and instruction
 I made an image on Raw Pixels and added it to the file to become my source file.  The plan was to create a board array where tiles could move around.  I needed to cut images into pieces and shuffle them randomly to deconstruct and then the interactive game is the player putting the image back together.  I used an index to keep track of the tiles, by splitting up with a number of rows and colums. When the shuffle was set for a low number, it did not mix the puzzle up enough.  I used the mouse pressed for the player to interact with the game.   It was difficult to understand the coding for keeping an empty spot for a piece to be able to move around the board.  The isNeighbor function allows movement beside the empty spot.  This seemed like a simple enough plan; however, there were many errors along the way.   After a very long journey, I was happy with my results.  *
 
 ### 🟪 Stage 5
-- Name/Alias:
-- Github account:
-- Published webpage for stage 5:
+- Name/Alias: Odette / ODESSSO
+- Github account: [https://github.com/odessso?tab=repositories](https://github.com/odessso)
+- Published webpage for stage 5:https://odessso.github.io/exquisite-corpse-stage-5-Slide-Over-Skull/
 
-*... comments to be added here*
+#### Overview:
+
+#### Attributes:
+
+#### Problems/Challenges:
+- this one was honestly more tedious with much less of an interesting outcome in comparison to my previous text game sketch. It was just so tedious
